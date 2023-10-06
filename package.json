@@ -8,8 +8,5 @@
     "build": "echo \"여기에 빌드 스크립트를 추가합니다.\" "
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "react": "~0.0"
-  }
+  "license": "ISC"
 }
